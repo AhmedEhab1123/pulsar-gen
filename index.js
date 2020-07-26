@@ -43,4 +43,4 @@ alt.on("message", message => {
   }
 });
 
-alt.login(process.env.TOKEN)
+alt.login("NzE3ODg1ODAwOTgwNjc2Njgz.Xtg1nQ.MSmOGn2Gc10rViuRcHt5iiMvVJw")
